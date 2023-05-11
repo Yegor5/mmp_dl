@@ -5,3 +5,5 @@ task1: homework on writing a fully connected neural network on numpy
 task2: homework on image segmentation
 
 task3: homework on RNN and language models
+
+task4: homework on transformer for speech denoising
